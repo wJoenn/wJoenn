@@ -3,7 +3,7 @@
 
 <h4>I'm Louis, a freshman full-stack developer coming from LeWagon <img src="https://emoji.slack-edge.com/T02NE0241/wagon-logo/8174979b99be030e.png" height="20"></h4>
 <p>Having a hardcore interest in computer techs I decided to switch my career from the restaurant industry to web development and get professionally involved in my main center of interest.
-Apparently I'm not so bad at it so I'm hoping to turn this initiativ into a life changing experience to build my future on.<br /><br />
+Apparently I'm not so bad at it so I'm hoping to turn this initiative into a life changing experience to build my future on.<br /><br />
 🌱 I’m currently improving my knowledge on Rails and am planning to get back to Vue later this year</p>
 
 <br/>
