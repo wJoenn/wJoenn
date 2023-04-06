@@ -1,27 +1,27 @@
 <h1>Hello There <img src="https://emoji.slack-edge.com/T02NE0241/ruby_pic/a027ab8b631456a6.gif" height="25"></h1>
+<img src="https://i.redd.it/qpiln2r753141.gif">
 
 <h4>I'm Louis, a freshman full-stack developer coming from LeWagon <img src="https://emoji.slack-edge.com/T02NE0241/wagon-logo/8174979b99be030e.png" height="20"></h4>
-<p>I decided to switch my career from the restaurant industry to web development during covid and finally do something in my professional life that interests me.
+<p>Having a hardcore interest in computer techs I decided to switch my career from the restaurant industry to web development and get professionaly involved in my main center of interest.
 Apparently I'm not so bad at it so I'm hoping to turn this initiative into a life changing experience to build my future upon.<br /><br />
 🌱 I’m currently approufounding my knowledge on Rails and am planning to get back to Vue later this year</p>
 
-<br />
+<br/>
 
 <h3 align="left">The last couple projects I worked on were:</h3>
+<p>
+  <a href="https://github.com/wJoenn/artify"><img src="/artify_favicon.png" alt="artify favicon" height="15"> Artify</a> 
+   - A PWA that scans picture of monuments and landmarks and returns an info page about it powered by Google's cloud vision api
+</p>
+
 <p>
   <a href="https://github.com/wJoenn/rentarr"><img src="/rentart_favicon.png" alt="rentart favicon" height="15"> Rentart</a>
    - A simple Airbnb copycat to rent art pieces for receptions
 </p>
 
-<p>
-  <a href="https://github.com/wJoenn/artify"><img src="/artify_favicon.png" alt="artify favicon" height="15"> Artify</a> 
-   - A PWA that scans picture of monuments and landmarks and returns an info page about it powered by Google's cloud vision api
-</p>
-<img src="/artify.gif" alt="artify gif" height="500">
+<br/>
 
-<br />
-
-<h3 align="left">Some stuffs I code with:</h3>
+<h3 align="left">The stuffs I code with include:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
