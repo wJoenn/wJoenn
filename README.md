@@ -11,7 +11,7 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
 <h3 align="left">The last couple projects I worked on were:</h3>
 <p>
   <a href="https://github.com/wJoenn/artify"><img src="/artify_favicon.png" alt="artify favicon" height="15"> Artify</a> 
-   - A PWA that scans picture of monuments and landmarks and returns an info page about it powered by Google's cloud vision api
+   - A PWA to scan pictures of landmarks taken by users, recognise the content of the picture and return actual informations about said landmark. It does so by using both Google Cloud Vision's api, specifically it's landmark recognition feature, to scan images and Wikipedia's api to procedurally generate any missing landmark from our database.
 </p>
 
 <p>
