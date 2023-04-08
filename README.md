@@ -1,4 +1,4 @@
-<h1>Hello There <img src="https://emoji.slack-edge.com/T02NE0241/ruby_pic/a027ab8b631456a6.gif" height="25"></h1>
+<h1>Hello There <img src="https://emoji.slack-edge.com/T02NE0241/ruby_pic/a027ab8b631456a6.gif" height="25" width="25"></h1>
 <img src="https://i.redd.it/qpiln2r753141.gif">
 
 <h4>I'm Louis, a freshman full-stack developer coming from LeWagon <img src="https://emoji.slack-edge.com/T02NE0241/wagon-logo/8174979b99be030e.png" height="20"></h4>
