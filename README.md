@@ -15,7 +15,7 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
 </p>
 
 <p>
-  <a href="https://github.com/wJoenn/rentarr"><img src="/rentart_favicon.png" alt="rentart favicon" height="15"> Rentart</a>
+  <a href="https://github.com/wJoenn/rentart"><img src="/rentart_favicon.png" alt="rentart favicon" height="15"> Rentart</a>
    - A simple Airbnb copycat to rent art pieces for receptions
 </p>
 
