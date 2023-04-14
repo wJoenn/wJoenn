@@ -2,7 +2,7 @@
 <img src="https://i.redd.it/qpiln2r753141.gif">
 
 <h4>I'm Louis, a freshman full-stack developer coming from LeWagon <img src="https://emoji.slack-edge.com/T02NE0241/wagon-logo/8174979b99be030e.png" height="20"></h4>
-<p>Having a hardcore interest in computer techs I decided to switch my career from the restaurant industry to web development and get professionally involved in my main center of interest.
+<p>Having a hardcore interest in computer techs, I decided to switch my career from the restaurant industry to web development and get professionally involved in my main center of interest.
 Apparently I'm not so bad at it so I'm hoping to turn this initiative into a life changing experience to build my future on.<br /><br />
 🌱 I’m currently improving my knowledge on Rails and am planning to get back to Vue later this year</p>
 
@@ -11,7 +11,7 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
 <h3 align="left">The last couple projects I worked on were:</h3>
 <p>
   <a href="https://github.com/wJoenn/artify"><img src="/artify_favicon.png" alt="artify favicon" height="15"> Artify</a> 
-   - A PWA to scan pictures of landmarks taken by users, recognise the content of the picture and return actual informations about said landmark. It does so by using both Google Cloud Vision's api, specifically it's landmark recognition feature, to scan images and Wikipedia's api to procedurally generate any missing landmark from our database.
+   - A PWA to scan pictures of landmarks taken by users, recognise the content of the picture and return actual information about said landmark. It does so by using both Google Cloud Vision's API, specifically it's landmark recognition feature, to scan images and Wikipedia's API to procedurally generate any missing landmark from our database.
 </p>
 
 <p>
