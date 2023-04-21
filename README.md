@@ -4,8 +4,12 @@
 <h4>I'm Louis, a freshman full-stack developer coming from LeWagon <img src="https://emoji.slack-edge.com/T02NE0241/wagon-logo/8174979b99be030e.png" height="20"></h4>
 <p>Having a hardcore interest in computer techs, I decided to switch my career from the restaurant industry to web development and get professionally involved in my main center of interest.
 Apparently I'm not so bad at it so I'm hoping to turn this initiative into a life changing experience to build my future on.<br /><br />
-🌱 I’m currently improving my knowledge on Rails and am planning to get back to Vue later this year</p>
-
+🌱 I’m currently learning to create a Rails API with authentification and feed it to a Vue3 frontend project with Pinia
+  <img src="https://user-images.githubusercontent.com/75388869/233712934-c6b65254-8208-4301-9102-6adf08e33384.png" alt="rails" height="20"/>
+  <img src="https://vuejs.org/images/logo.png" alt="vuejs" height="20"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" alt="vitejs" height="20"/>
+  <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" height="20"/>
+</p>
 <br/>
 
 <h3 align="left">The last couple projects I worked on were:</h3>
@@ -21,40 +25,31 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
 
 <br/>
 
-<h3 align="left">The stuffs I code with include:</h3>
+<h3 align="left">My current tech stack</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="html5" width="55" height="55"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="html5" height="55"/>
+  </a>&nbsp;
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="sass" width="55" height="55"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="65" height="55"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
-  </a>
+    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="sass" height="55"/>
+  </a>&nbsp;
   <a href="https://stimulus.hotwired.dev" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/stimulus-logo-00C9C155E0-seeklogo.com.png" alt="stimulus" width="55" height="55"/>
-  </a>
+    <img src="https://seeklogo.com/images/S/stimulus-logo-00C9C155E0-seeklogo.com.png" alt="stimulus" height="55"/>
+  </a>&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="55" height="55"/>
-  </a>
+    <img src="https://vuejs.org/images/logo.png" alt="vuejs" height="55"/>
+  </a>&nbsp;
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" alt="vitejs" width="55" height="55"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" alt="vitejs" height="55"/>
+  </a>&nbsp;
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/75388869/232625475-1e80413c-f81e-49a5-9c1f-f84f13b43255.png" alt="rails" width="60" height="60"/>
-  </a>
+    <img src="https://user-images.githubusercontent.com/75388869/233712934-c6b65254-8208-4301-9102-6adf08e33384.png" alt="rails" height="55"/>
+  </a>&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" width="55" height="55"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" height="55"/>
+  </a>&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="55"/>
   </a>
 </p>
 
