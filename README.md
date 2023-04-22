@@ -25,7 +25,7 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
 
 <br/>
 
-<h3 align="left">My current tech stack</h3>
+<h3 align="left">My current Stack</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="html5" height="55"/>
@@ -38,6 +38,9 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
   </a>&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://vuejs.org/images/logo.png" alt="vuejs" height="55"/>
+  </a>&nbsp;
+  <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" height="55"/>
   </a>&nbsp;
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" alt="vitejs" height="55"/>
