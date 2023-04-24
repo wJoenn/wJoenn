@@ -48,6 +48,9 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/75388869/233712934-c6b65254-8208-4301-9102-6adf08e33384.png" alt="rails" height="55"/>
   </a>&nbsp;
+   <a href="https://rspec.info/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/75388869/234079178-c5e3faba-e80b-40b3-8b8f-2e9cdd6f19e7.png" alt="rspec" height="55"/>
+  </a>&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" height="55"/>
   </a>&nbsp;
