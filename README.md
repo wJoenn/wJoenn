@@ -4,13 +4,12 @@
 <h4>I'm Louis, a freshman full-stack developer coming from LeWagon <img src="https://emoji.slack-edge.com/T02NE0241/wagon-logo/8174979b99be030e.png" height="20"></h4>
 <p>Having a hardcore interest in computer techs, I decided to switch my career from the restaurant industry to web development and get professionally involved in my main center of interest.
 Apparently I'm not so bad at it so I'm hoping to turn this initiative into a life changing experience to build my future on.<br /><br />
-🌱 I’m currently learning to create a Rails API with authentification and feed it to a Vue3 frontend project with Pinia
-  <img src="https://user-images.githubusercontent.com/75388869/233712934-c6b65254-8208-4301-9102-6adf08e33384.png" alt="rails" height="20"/>
+🌱 I’m currently learning to integreate Typescript to my Vue projects
+  <img src="https://user-images.githubusercontent.com/75388869/234981762-04e4cea4-1dab-4544-954e-4bdc701daaec.png" alt="typescript" height="20"/>
   <img src="https://vuejs.org/images/logo.png" alt="vuejs" height="20"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" alt="vitejs" height="20"/>
-  <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" height="20"/>
 </p>
 <br/>
+
 
 <h3 align="left">The last couple projects I worked on were:</h3>
 <p>
