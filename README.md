@@ -32,8 +32,8 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="sass" height="55"/>
   </a>&nbsp;
-  <a href="https://stimulus.hotwired.dev" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/S/stimulus-logo-00C9C155E0-seeklogo.com.png" alt="stimulus" height="55"/>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/75388869/234981762-04e4cea4-1dab-4544-954e-4bdc701daaec.png" alt="typescript" height="55"/>
   </a>&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://vuejs.org/images/logo.png" alt="vuejs" height="55"/>
