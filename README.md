@@ -56,6 +56,7 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="55"/>
   </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/75388869/235373918-a2d297cf-d476-4800-adab-11faabf5ad5e.png" alt="netlify" height="55"/>
+  </a>
 </p>
-
-
