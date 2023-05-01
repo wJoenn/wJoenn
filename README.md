@@ -4,15 +4,14 @@
 <h4>I'm Louis, a freshman full-stack developer coming from LeWagon <img src="https://emoji.slack-edge.com/T02NE0241/wagon-logo/8174979b99be030e.png" height="20"></h4>
 <p>Having a hardcore interest in computer techs, I decided to switch my career from the restaurant industry to web development and get professionally involved in my main center of interest.
 Apparently I'm not so bad at it so I'm hoping to turn this initiative into a life changing experience to build my future on.<br /><br />
-🌱 I’m currently working on my first Rails monolith projects using Typescript, Vue, Inertia and Vite
+🌱 I’m currently working on my first Rails monolith projects using Inertia, Typescript, Vue and Vite
   <img src="https://user-images.githubusercontent.com/75388869/233712934-c6b65254-8208-4301-9102-6adf08e33384.png" alt="rails" height="20"/>
+  <img src="https://user-images.githubusercontent.com/75388869/235443820-9398d3e8-0c39-4816-a361-7bc3a6317ea5.png" alt="inertiajs" height="20"/>
   <img src="https://user-images.githubusercontent.com/75388869/234981762-04e4cea4-1dab-4544-954e-4bdc701daaec.png" alt="typescript" height="20"/>
   <img src="https://vuejs.org/images/logo.png" alt="vuejs" height="20"/>
-  <img src="https://user-images.githubusercontent.com/75388869/235443629-38689b12-c0a4-4dfc-a6e6-bc2f980c5136.png" alt="inertiajs" height="20"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" alt="vitejs" height="20"/>
 </p>
 <br/>
-
 
 <h3 align="left">The last couple projects I worked on were:</h3>
 <p>
