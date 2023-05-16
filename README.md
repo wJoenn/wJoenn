@@ -5,6 +5,8 @@
 <p>Having a hardcore interest in computer techs, I decided to switch my career from the restaurant industry to web development and get professionally involved in my main center of interest.
 Apparently I'm not so bad at it so I'm hoping to turn this initiative into a life changing experience to build my future on.<br /><br />
 
+<p>I am currently working on a 20+ tables Ruby on Rails api with a Vue.js client app alone as well as leading a team of 6 junior Ruby on Rails developer on a small business management tool for a client</p>
+
 <h3 align="left">The last couple projects I worked on were:</h3>
 <p>
   <a href="https://github.com/wJoenn/artify"><img src="/artify_favicon.png" alt="artify favicon" height="15"> Artify</a> 
