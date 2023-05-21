@@ -7,23 +7,19 @@ Apparently I'm not so bad at it so I'm hoping to turn this initiative into a lif
 
 I am currently working on a 20+ tables Ruby on Rails api with a Vue.js client app alone as well as leading a freelance team of 6 junior Ruby on Rails developer on a small business management tool for a client.<br>
 I'm planning to get into 
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/wJoenn/wJoenn/assets/75388869/4e47f3d3-d438-44b2-a75b-066040475142" alt="nuxt.js" height="20"/>
-  </a>
-  and
-  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/wJoenn/wJoenn/assets/75388869/04814aa1-3b59-44d6-84aa-0c650b8a5981" alt="vitest" height="25"/>
-  </a>
- soon too.</p>
+<img src="https://github.com/wJoenn/wJoenn/assets/75388869/4e47f3d3-d438-44b2-a75b-066040475142" alt="nuxt.js" height="20"/>
+and
+<img src="https://github.com/wJoenn/wJoenn/assets/75388869/04814aa1-3b59-44d6-84aa-0c650b8a5981" alt="vitest" height="25"/>
+soon too.
  
 <h3 align="left">The last couple projects I worked on were:</h3>
 <p>
-  <a href="https://github.com/wJoenn/artify"><img src="/artify_favicon.png" alt="artify favicon" height="15"> Artify</a> 
+  <a href="https://github.com/wJoenn/artify"><img src="/artify_favicon.png" alt="artify favicon" height="20"> Artify</a> 
    - A PWA to scan pictures of landmarks taken by users, recognise the content of the picture and return actual information about said landmark. It does so by using both Google Cloud Vision's API, specifically it's landmark recognition feature, to scan images and Wikipedia's API to procedurally generate any missing landmark from our database.
 </p>
 
 <p>
-  <a href="https://github.com/wJoenn/rentart"><img src="/rentart_favicon.png" alt="rentart favicon" height="15"> Rentart</a>
+  <a href="https://github.com/wJoenn/rentart"><img src="/rentart_favicon.png" alt="rentart favicon" height="20"> Rentart</a>
    - A simple Airbnb copycat to rent art pieces for receptions
 </p>
 
