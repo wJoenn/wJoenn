@@ -5,8 +5,17 @@
 <p>Having a hardcore interest in computer techs, I decided to switch my career from the restaurant industry to web development and get professionally involved in my main center of interest.
 Apparently I'm not so bad at it so I'm hoping to turn this initiative into a life changing experience to build my future on.<br /><br />
 
-<p>I am currently working on a 20+ tables Ruby on Rails api with a Vue.js client app alone as well as leading a team of 6 junior Ruby on Rails developer on a small business management tool for a client</p>
-
+I am currently working on a 20+ tables Ruby on Rails api with a Vue.js client app alone as well as leading a freelance team of 6 junior Ruby on Rails developer on a small business management tool for a client.<br>
+I'm planning to get into 
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/wJoenn/wJoenn/assets/75388869/4e47f3d3-d438-44b2-a75b-066040475142" alt="nuxt.js" height="20"/>
+  </a>
+  and
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/wJoenn/wJoenn/assets/75388869/04814aa1-3b59-44d6-84aa-0c650b8a5981" alt="vitest" height="25"/>
+  </a>
+ soon too.</p>
+ 
 <h3 align="left">The last couple projects I worked on were:</h3>
 <p>
   <a href="https://github.com/wJoenn/artify"><img src="/artify_favicon.png" alt="artify favicon" height="15"> Artify</a> 
