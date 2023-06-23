@@ -42,11 +42,14 @@ soon too.
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" height="55"/>
   </a>&nbsp;
+   <a href="https://postcss.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/wJoenn/wJoenn/assets/75388869/690b0c11-3e30-4ad2-a5a7-51e7fa7ba94e" alt="postcss" height="55"/>
+  </a>&nbsp;
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" alt="vitejs" height="55"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://stimulus.hotwired.dev/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/75388869/236431187-214addb5-2a6f-47a7-ab76-8ed40da31b9c.png" alt="stimulus" height="55"/>
+  <a href="https://sinatrarb.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/wJoenn/wJoenn/assets/75388869/9ba6c628-c3b1-46aa-a1d8-caee46817269" alt="sinatra" height="55"/>
   </a>&nbsp;
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/75388869/233712934-c6b65254-8208-4301-9102-6adf08e33384.png" alt="rails" height="55"/>
@@ -60,7 +63,8 @@ soon too.
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/75388869/235373918-a2d297cf-d476-4800-adab-11faabf5ad5e.png" alt="netlify" height="55"/>
   </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="55"/>
+  <a href="https://fly.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/wJoenn/wJoenn/assets/75388869/44b46b6c-6ba5-4f79-a12b-5a2712d601d9" alt="flyio" height="55"/>
   </a>
 </p>
+
