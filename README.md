@@ -42,9 +42,6 @@ soon too.
   <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
   <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" height="55"/>
   </a>&nbsp;
-   <a href="https://postcss.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/wJoenn/wJoenn/assets/75388869/690b0c11-3e30-4ad2-a5a7-51e7fa7ba94e" alt="postcss" height="55"/>
-  </a>&nbsp;
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/244px-Vitejs-logo.svg.png" alt="vitejs" height="55"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
