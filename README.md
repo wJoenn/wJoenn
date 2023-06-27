@@ -27,11 +27,12 @@ soon too.
 
 <h3 align="left">My current Stack</h3>
 <p align="left">
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" alt="html5" height="55"/>
   </a>&nbsp;
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="sass" height="55"/>
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75388869/249278075-76e9e151-1d2c-4618-84b4-797d64c026b8.png" alt="sass" height="55"/>
   </a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/75388869/234981762-04e4cea4-1dab-4544-954e-4bdc701daaec.png" alt="typescript" height="55"/>
