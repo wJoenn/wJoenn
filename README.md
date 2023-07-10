@@ -64,3 +64,4 @@ soon too.
   </a>
 </p>
 
+![wJoenn](https://github-readme-stats.vercel.app/api/top-langs/?username=wJoenn&layout=compact&theme=transparent&hide_border=true&hide_title=true&text_color=ffffff&card_width=600&size_weight=0.5&count_weight=0.5&hide=shell)
