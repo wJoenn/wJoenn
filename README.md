@@ -56,11 +56,11 @@ soon too.
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgresql" height="55"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/75388869/235373918-a2d297cf-d476-4800-adab-11faabf5ad5e.png" alt="netlify" height="55"/>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75388869/270094696-47900b8d-b3a0-484f-9b0e-638c06c83e5d.png" alt="vercel" height="55"/>
   </a>&nbsp;
   <a href="https://fly.io/" target="_blank" rel="noreferrer">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75388869/248782860-0109b3e4-ed28-4f96-8763-e0a1ce5fd321.png" alt="netlify" height="55"/>
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75388869/248782860-0109b3e4-ed28-4f96-8763-e0a1ce5fd321.png" alt="flyio" height="55"/>
   </a>
 </p>
 
